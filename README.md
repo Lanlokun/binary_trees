@@ -31,3 +31,13 @@
     gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 2-main.c 2-binary_tree_insert_right.c 0-binary_tree_node.c -o 2-right
     ./2-right   
 </ul>
+
+# 3. Delete
+
+
+    Write a function that deletes an entire binary tree
+
+<ul>
+    gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 3-main.c 3-binary_tree_delete.c 0-binary_tree_node.c 2-binary_tree_insert_right.c -o 3-del
+    ./3-del
+</ul>
