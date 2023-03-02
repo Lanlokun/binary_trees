@@ -20,3 +20,14 @@
     ./1-left
 </ul>
 
+# 2. Insert right
+
+
+    Write a function that inserts a node as the right-child of another node
+
+
+
+<ul>
+    gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 2-main.c 2-binary_tree_insert_right.c 0-binary_tree_node.c -o 2-right
+    ./2-right   
+</ul>
