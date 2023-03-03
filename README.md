@@ -306,6 +306,11 @@
 
 </ul>
 
+# 27. BST - Search
+
+
+    Write a function that searches for a value in a Binary Search Tree
+
 
 
 
