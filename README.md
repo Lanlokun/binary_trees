@@ -311,6 +311,25 @@
 
     Write a function that searches for a value in a Binary Search Tree
 
+<ul>
+
+gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 113-bst_search.c 113-main.c 112-array_to_bst.c 111-bst_insert.c 0-binary_tree_node.c -o 113-bst_search
+./113-bst_search
+
+</ul>
+
+# 28. BST - Remove
+
+
+    Write a function that removes a node from a Binary Search Tree
+
+
+<ul>
+
+    gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 114-bst_remove.c 114-main.c 112-array_to_bst.c 111-bst_insert.c 0-binary_tree_node.c 3-binary_tree_delete.c -o 114-bst_rm
+    ./114-bst_rm
+
+</ul>
 
 
 
