@@ -232,6 +232,17 @@
 
  </ul>
 
+ # 21. Is complete
+
+
+    Write a function that checks if a binary tree is complete
+
+<ul>
+
+    gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 102-main.c 102-binary_tree_is_complete.c 0-binary_tree_node.c 3-binary_tree_delete.c -o 102-complete
+    ./102-complete
+
+</ul>
 
 
 
