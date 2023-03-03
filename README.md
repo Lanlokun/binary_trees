@@ -406,6 +406,19 @@ gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 113-bst_search.c 113-mai
 
     What are the average time complexities of those operations on an AVL Tree (one answer per line):
 
+# 36. Is Binary heap
+
+
+    Write a function that checks if a binary tree is a valid Max Binary Heap
+
+<ul>
+
+    gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 130-main.c 130-binary_tree_is_heap.c 0-binary_tree_node.c -o 130-is_heap
+    ./130-is_heap
+
+</ul>
+
+
 
 
 
