@@ -388,7 +388,18 @@ gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 113-bst_search.c 113-mai
 
 
 
+# 34. AVL - From sorted array
 
+
+    Write a function that builds an AVL tree from an array
+
+
+<ul>
+
+    gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 124-main.c 124-sorted_array_to_avl.c 0-binary_tree_node.c -o 124-avl_sorted
+    ./124-avl_sorted
+
+</ul>
 
 
 
