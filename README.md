@@ -373,6 +373,21 @@ gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 113-bst_search.c 113-mai
 
 </ul>
 
+# 33. AVL - Remove
+
+
+    Write a function that removes a node from an AVL tree
+
+
+<ul>
+
+    gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 123-avl_remove.c 123-main.c 103-binary_tree_rotate_left.c 104-binary_tree_rotate_right.c 122-array_to_avl.c 121-avl_insert.c 14-binary_tree_balance.c 3-binary_tree_delete.c 0-binary_tree_node.c -o 123-avl_rm
+    ./123-avl_rm
+
+</ul>
+
+
+
 
 
 
