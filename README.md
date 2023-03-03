@@ -196,6 +196,19 @@
     
 </ul>
 
+# 18. Uncle
+
+    Write a function that finds the uncle of a node
+
+
+<ul>
+
+    gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 18-main.c 18-binary_tree_uncle.c 0-binary_tree_node.c -o 18-uncle
+    ./10-uncle
+    
+</ul>
+
+
 
 
 
