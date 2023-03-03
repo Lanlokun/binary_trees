@@ -348,6 +348,20 @@ gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 113-bst_search.c 113-mai
 
 </ul>
 
+# 31. AVL - Insert
+
+
+    Write a function that inserts a value in an AVL Tree
+
+<ul>
+
+    gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 121-avl_insert.c 121-main.c 14-binary_tree_balance.c 103-binary_tree_rotate_left.c 104-binary_tree_rotate_right.c 0-binary_tree_node.c -o 121-avl_insert
+    ./121-av_insert
+
+</ul>
+
+
+
 
 
 
