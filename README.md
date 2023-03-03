@@ -331,6 +331,10 @@ gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 113-bst_search.c 113-mai
 
 </ul>
 
+# 29. Big O #BST
+
+
+    What are the average time complexities of those operations on a Binary Search Tree (one answer per line):
 
 
 
