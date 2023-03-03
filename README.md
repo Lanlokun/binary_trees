@@ -257,6 +257,19 @@
 
 </ul>
 
+# 23. Rotate right
+
+
+    Write a function that performs a right-rotation on a binary tree
+
+<ul>
+
+    gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 104-binary_tree_rotate_right.c 104-main.c 0-binary_tree_node.c -o 104-rotr
+    ./104-rotr
+
+</ul>
+
+
 
 
 
