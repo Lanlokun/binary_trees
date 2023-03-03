@@ -361,6 +361,18 @@ gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 113-bst_search.c 113-mai
 </ul>
 
 
+# 32. AVL - Array to AVL
+
+    Write a function that builds an AVL tree from an array
+
+
+<ul>
+
+    gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 122-array_to_avl.c 122-main.c 121-avl_insert.c 0-binary_tree_node.c 14-binary_tree_balance.c 103-binary_tree_rotate_left.c 104-binary_tree_rotate_right.c -o 122-avl_array
+    ./122-avl_array
+
+</ul>
+
 
 
 
